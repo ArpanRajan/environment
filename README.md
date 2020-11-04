@@ -1,1 +1,1 @@
-# environment
+dotfiles + other configs
